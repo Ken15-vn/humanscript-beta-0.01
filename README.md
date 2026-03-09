@@ -9,5 +9,17 @@ HumanScript is a lightweight programming language. Goal: Make coding as easy as 
 ### 🛠️ System Requirements:
 * **Python 3.12** or higher (Required to run the interpreter).
 * **No Visual Studio needed** – You can run HumanScript on any text editor!
+### 🚀 How to Use
+1. **Download:** Download the `humanscript beta 0.01.zip` file and extract it to your folder.
+2. **Setup:** Make sure you have **Python 3.12** or higher installed on your system.
+3. **Run:** Open Command Prompt (CMD) in the project folder and run the following command:
+   ```bash
+   python humanscript.py test.human
+📜 File Structure
+humanscript.py: The core interpreter (the "brain") of the language. It translates your English commands into actions.
+
+test.human: Your script file. Open this with any text editor (like Notepad) to write your HumanScript code.
+
+humanscript beta 0.01.zip: A pre-packaged version for easy sharing and quick deployment.
 ---
 *Open-source project.*
