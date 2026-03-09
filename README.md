@@ -10,6 +10,8 @@ HumanScript is a lightweight programming language. Goal: Make coding as easy as 
 * **Python 3.12** or higher (Required to run the interpreter).
 ### 💡 Recommendation
 For the best development experience, we recommend using **Visual Studio 2026** or **Visual Studio Code**. These tools provide better syntax highlighting and debugging for HumanScript's core files.
+* **[Visual Studio Code](https://code.visualstudio.com/)** (Lightweight & Powerful)
+* **[Visual Studio 2022/2026](https://visualstudio.microsoft.com/)** (Full IDE features)
 ### 🚀 How to Use
 1. **Download:** Download the `humanscript beta 0.01.zip` file and extract it to your folder.
 2. **Setup:** Make sure you have **Python 3.12** or higher installed on your system.
